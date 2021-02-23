@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Cheese",
+    "description": "The best grilled cheese always starts with a sturdy bread and lots of cheese.",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Pork Sandwich",
+    "description": "Sandwich with lettuce, tomatoes and pork.",
+    "price": 14.99
+  },
+  {
+    "id": 3,
+    "name": "Tuna",
+    "description": "Fresh grilled tuna sandwich with tomatoes, mayonaise",
+    "price": 9.99,
+    "specialOffer": true
+  },
+  {
+    "id": 4,
+    "name": "Chicken",
+    "description": "A sandwich with chicken, lettuce, ketchup, tomatoes and",
+    "price": 14.99
+  }
+]
